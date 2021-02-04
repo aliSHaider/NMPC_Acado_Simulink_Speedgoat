@@ -1,0 +1,3 @@
+<Object type="Desktop.Xpc.Designer.InstrumentPanel, Desktop.Xpc.Designer, Version=1.0.0.0, Culture=neutral" name="InstrumentPanel1" children="Controls">
+   <Property name="ClientSize">1400, 1212</Property>
+</Object>
